@@ -16,7 +16,7 @@ class identidadeHeroi{
 let mago = new identidadeHeroi("Ryze", "400 anos", "mago", "magia")
 let guerreiro = new identidadeHeroi("Garen", "100 anos", "guerreiro", "espada")
 let monge = new identidadeHeroi("Lee sin", "32 anos", "monge", "artes marciais")
-let ninja = new identidadeHeroi("Zed", "900 anos", "ninja", "shuriken")
+let ninja = new identidadeHeroi("Zed", "600 anos", "ninja", "shuriken")
 
 mago.atacar()
 guerreiro.atacar()
